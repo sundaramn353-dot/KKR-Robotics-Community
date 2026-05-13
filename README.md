@@ -14,6 +14,7 @@ This repository contains the full documentation, hardware architecture, and firm
 * [Software & Logic](#-software--logic)
 * [Installation & Setup](#-installation--setup)
 * [Community & Support](#-community--support)
+> 🛠️ **[Official Troubleshooting & Bug Fixes Log](https://github.com/sundaramn353-dot/KKR-Robotics-Community/wiki/Troubleshooting-Log)**
 
 ---
 
