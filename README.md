@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Industry-Grade Autonomous Line Following Robot (LFR)
@@ -32,6 +31,7 @@
 - [Firmware Deployment](#firmware-deployment)
 - [Sensor Calibration](#sensor-calibration)
 - [Future ROS2 Integration](#future-ros2-integration)
+- [Troubleshooting and Documentation](#troubleshooting-and-documentation)
 - [Community and Support](#community-and-support)
 - [Repository Goals](#repository-goals)
 - [License](#license)
@@ -296,6 +296,14 @@ This repository is designed as a foundational bridge toward advanced ROS2 roboti
 - IMU Sensor Fusion
 - Nav2 Autonomous Navigation
 - SLAM-Based Mapping
+  
+# Troubleshooting and Documentation
+
+Access the official troubleshooting knowledge base and technical wiki documentation.
+
+**[View Troubleshooting Wiki](https://github.com/sundaramn353-dot/KKR-Robotics-Community/wiki)**
+
+---
 
 ---
 
