@@ -4,7 +4,7 @@
 
 ### Official Technical Documentation and Implementation Guide
 
-### KKR-Robotics-Community
+### ROS Tamilnadu (Community) Powerd by Karthikesh Robotics Private Limited
 
 ---
 
@@ -58,7 +58,7 @@ This repository is structured as an industry-oriented learning and implementatio
 - Sensor Fusion Concepts
 - Real-Time Autonomous Navigation
 - ROS2 Transition Fundamentals
-
+* **[Industry Guide: Line Following Robot](https://github.com/sundaramn353-dot/KKR-Robotics-Community/wiki/Industry-Guide:-Line-Following-Robot)** — A step-by-step roadmap for beginners to build professional AGVs.
 ---
 
 # System Architecture
