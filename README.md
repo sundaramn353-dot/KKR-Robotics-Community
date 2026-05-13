@@ -55,8 +55,13 @@ void calculatePID() {
     
     setMotorSpeeds(baseSpeed + motorSpeed, baseSpeed - motorSpeed);
 }
+```
+
+---
 
 ## 🤝 Community & Support
 Join our growing family of 500+ Robotics Enthusiasts!
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](YOUR_WHATSAPP_LINK_HERE)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/IiAwABlSRXR7dJFPgDu4Hm)
+
+---
